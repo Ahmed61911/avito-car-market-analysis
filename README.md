@@ -1,6 +1,6 @@
-﻿# Avito.ma Cars Scraper & Price Estimator 🚗💰
+﻿# Avito.ma Cars Price Estimator 🚗💰
 
-This project started as a **web scraper** for car listings on **Avito.ma**, but it has evolved into a full **data pipeline** including **data cleaning, analysis, machine learning models for price prediction, and an interactive Streamlit UI**.
+This project started as a **web scraper (This project is used for learning puposes only)** for car listings on **Avito.ma**, but it has evolved into a full **data pipeline** including **data cleaning, analysis, machine learning models for price prediction, and an interactive Streamlit UI**.
 
 ---
 
@@ -179,3 +179,4 @@ jupyter notebook notebooks/regression_models.ipynb
 
 ### Screenshots / Visualization
 ![Alt Text](assets/screenshot.png)
+
